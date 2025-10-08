@@ -85,4 +85,8 @@ Após a execução do script, a pasta `imagens_classificadas` terá uma estrutur
 ---
 ##  _Autores_
 
-- **Layon Gabriel**, **Elenildo Machado**, **Juan Carlos**, **Déric Lima**, **Marcos Venicius**.
+- **Layon Gabriel** _(https://github.com/LayonGabriel)_
+- **Elenildo Machado** _(https://github.com/elenildomcosta)_
+- **Juan Carlos** _(Github.com/juanzinholima-byte)_
+- **Déric Lima** _(https://github.com/DericLimaDevProg)_
+- **Marcos Venicius** _(https://github.com/venicius819)_
